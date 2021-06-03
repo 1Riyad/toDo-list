@@ -1,0 +1,54 @@
+.AllToDo{
+    position: absolute;
+    /* left: 23%; */
+    margin:0 20%;
+    top: 210px;
+    width: 800px;
+    background-color: rgb(199, 153, 245);
+    border-radius: 7px;
+    display:flex; 
+    flex-wrap:wrap;
+    padding: 5px;
+    /* justify-content:space-evenly; */
+}
+
+.MovieContainer{
+    position: absolute;
+    
+}
+
+.TodoInfo{
+        position: absolute;
+        padding-left: 50px;
+}
+.Edit{
+    /* position: absolute; */
+    background-color: rgb(137, 222, 209);
+    margin-left: 590px;
+}
+.Delete{
+    /* position: absolute; */
+    background-color: rgb(222, 138, 137);
+
+    margin-left: 10px;
+}
+
+.btnModify{
+    /* position: absolute; */
+    margin-bottom: 10px;
+    /* margin-left: 600px; */
+    left: 490px;
+    top: 210px;
+    width: 85px;
+    height: 25px;
+    /* background-color: rgb(137, 222, 209); */
+    font-weight: bold;
+    color: rgb(37, 1, 71);
+    border: 1px solid rgb(98, 220, 222);
+    border-radius: 7px;
+}
+
+.ide{
+    position: relative;
+    top: -7px;
+}
