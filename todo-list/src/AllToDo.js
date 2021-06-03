@@ -4,7 +4,6 @@ import './ToDo.css';
 
 export default class AllToDo extends Component {
     constructor(props) {
-        //hey
         super(props);
         this.state = {
             List: this.props.allList,
@@ -96,3 +95,4 @@ export default class AllToDo extends Component {
 }
 
 
+// Testing Commit with Mr. Abdullah
